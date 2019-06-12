@@ -1,0 +1,772 @@
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	interfaces/ICollectible.cpp
+	-o
+	ICollectible.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	interfaces/IKey.cpp
+	-o
+	IKey.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	interfaces/OrderedKey.cpp
+	-o
+	OrderedKey.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	interfaces/IIterator.cpp
+	-o
+	IIterator.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	interfaces/ICollection.cpp
+	-o
+	ICollection.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	collections/ListNode.cpp
+	-o
+	ListNode.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	collections/ListIterator.cpp
+	-o
+	ListIterator.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	collections/List.cpp
+	-o
+	List.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	interfaces/IDictionary.cpp
+	-o
+	IDictionary.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	collections/OrderedDictionaryEntry.cpp
+	-o
+	OrderedDictionaryEntry.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	collections/OrderedDictionary.cpp
+	-o
+	OrderedDictionary.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtReporteDep.cpp
+	-o
+	DtReporteDep.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtReporteZ.cpp
+	-o
+	DtReporteZ.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	ReporteDepartamento.cpp
+	-o
+	ReporteDepartamento.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	ReporteZona.cpp
+	-o
+	ReporteZona.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Direccion.cpp
+	-o
+	Direccion.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtInmobiliaria.cpp
+	-o
+	DtInmobiliaria.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtReporteInm.cpp
+	-o
+	DtReporteInm.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	InfoPropiedad.cpp
+	-o
+	InfoPropiedad.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	InfoAp.cpp
+	-o
+	InfoAp.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	InfoC.cpp
+	-o
+	InfoC.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	StringKey.cpp
+	-o
+	StringKey.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	IntKey.cpp
+	-o
+	IntKey.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtOferta.cpp
+	-o
+	DtOferta.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtCodDirProp.cpp
+	-o
+	DtCodDirProp.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtDepartamento.cpp
+	-o
+	DtDepartamento.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtEdificio.cpp
+	-o
+	DtEdificio.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtZona.cpp
+	-o
+	DtZona.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	FechaYHora.cpp
+	-o
+	FechaYHora.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	HoraSistema.cpp
+	-o
+	HoraSistema.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtPropiedad.cpp
+	-o
+	DtPropiedad.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Usuario.cpp
+	-o
+	Usuario.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Interesado.cpp
+	-o
+	Interesado.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Administrador.cpp
+	-o
+	Administrador.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	LetraIdentificadora.cpp
+	-o
+	LetraIdentificadora.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Inmobiliaria.cpp
+	-o
+	Inmobiliaria.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Sesion.cpp
+	-o
+	Sesion.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Edificio.cpp
+	-o
+	Edificio.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	ColeccionEdificios.cpp
+	-o
+	ColeccionEdificios.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	DtMensaje.cpp
+	-o
+	DtMensaje.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Alquiler.cpp
+	-o
+	Alquiler.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Venta.cpp
+	-o
+	Venta.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Propiedad.cpp
+	-o
+	Propiedad.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Apartamento.cpp
+	-o
+	Apartamento.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Casa.cpp
+	-o
+	Casa.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Zona.cpp
+	-o
+	Zona.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Departamento.cpp
+	-o
+	Departamento.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Mensaje.cpp
+	-o
+	Mensaje.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	Conversa.cpp
+	-o
+	Conversa.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	ControladorUsuarios.cpp
+	-o
+	ControladorUsuarios.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	-c
+	ControladorPropiedades.cpp
+	-o
+	ControladorPropiedades.o
+
+called: g++
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	g++
+	-std=c++11
+	-g
+	-Wall
+	-Werror
+	ICollectible.o
+	IKey.o
+	OrderedKey.o
+	IIterator.o
+	ICollection.o
+	ListNode.o
+	ListIterator.o
+	List.o
+	IDictionary.o
+	OrderedDictionaryEntry.o
+	OrderedDictionary.o
+	DtReporteDep.o
+	DtReporteZ.o
+	ReporteDepartamento.o
+	ReporteZona.o
+	DtReporteInm.o
+	InfoPropiedad.o
+	InfoAp.o
+	InfoC.o
+	DtInmobiliaria.o
+	StringKey.o
+	IntKey.o
+	Direccion.o
+	DtOferta.o
+	DtCodDirProp.o
+	DtDepartamento.o
+	DtEdificio.o
+	DtZona.o
+	FechaYHora.o
+	HoraSistema.o
+	DtPropiedad.o
+	Usuario.o
+	Interesado.o
+	Administrador.o
+	Inmobiliaria.o
+	Sesion.o
+	Edificio.o
+	ColeccionEdificios.o
+	DtMensaje.o
+	Alquiler.o
+	Venta.o
+	Propiedad.o
+	Apartamento.o
+	Casa.o
+	Zona.o
+	Departamento.o
+	Mensaje.o
+	Conversa.o
+	LetraIdentificadora.o
+	ControladorUsuarios.o
+	ControladorPropiedades.o
+	main.cpp
+	-o
+	main
+
+called: /usr/bin/ld
+	/home/tito/Escritorio/c++/Programacion Avanzada/v07
+	/usr/bin/ld
+	-plugin
+	/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so
+	-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
+	-plugin-opt=-fresolution=/tmp/ccw0s1jR.res
+	-plugin-opt=-pass-through=-lgcc_s
+	-plugin-opt=-pass-through=-lgcc
+	-plugin-opt=-pass-through=-lc
+	-plugin-opt=-pass-through=-lgcc_s
+	-plugin-opt=-pass-through=-lgcc
+	--sysroot=/
+	--build-id
+	--eh-frame-hdr
+	-m
+	elf_x86_64
+	--hash-style=gnu
+	--as-needed
+	-dynamic-linker
+	/lib64/ld-linux-x86-64.so.2
+	-z
+	relro
+	-o
+	main
+	/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o
+	/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o
+	/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o
+	-L/usr/lib/gcc/x86_64-linux-gnu/5
+	-L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu
+	-L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib
+	-L/lib/x86_64-linux-gnu
+	-L/lib/../lib
+	-L/usr/lib/x86_64-linux-gnu
+	-L/usr/lib/../lib
+	-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..
+	ICollectible.o
+	IKey.o
+	OrderedKey.o
+	IIterator.o
+	ICollection.o
+	ListNode.o
+	ListIterator.o
+	List.o
+	IDictionary.o
+	OrderedDictionaryEntry.o
+	OrderedDictionary.o
+	DtReporteDep.o
+	DtReporteZ.o
+	ReporteDepartamento.o
+	ReporteZona.o
+	DtReporteInm.o
+	InfoPropiedad.o
+	InfoAp.o
+	InfoC.o
+	DtInmobiliaria.o
+	StringKey.o
+	IntKey.o
+	Direccion.o
+	DtOferta.o
+	DtCodDirProp.o
+	DtDepartamento.o
+	DtEdificio.o
+	DtZona.o
+	FechaYHora.o
+	HoraSistema.o
+	DtPropiedad.o
+	Usuario.o
+	Interesado.o
+	Administrador.o
+	Inmobiliaria.o
+	Sesion.o
+	Edificio.o
+	ColeccionEdificios.o
+	DtMensaje.o
+	Alquiler.o
+	Venta.o
+	Propiedad.o
+	Apartamento.o
+	Casa.o
+	Zona.o
+	Departamento.o
+	Mensaje.o
+	Conversa.o
+	LetraIdentificadora.o
+	ControladorUsuarios.o
+	ControladorPropiedades.o
+	/tmp/ccP9gz8N.o
+	-lstdc++
+	-lm
+	-lgcc_s
+	-lgcc
+	-lc
+	-lgcc_s
+	-lgcc
+	/usr/lib/gcc/x86_64-linux-gnu/5/crtend.o
+	/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+
